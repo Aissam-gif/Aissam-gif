@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![Aissam's GitHub Banner](./assets/banner.png)
 
