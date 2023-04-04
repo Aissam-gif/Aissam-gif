@@ -7,6 +7,19 @@
 
 ## 📌 Pinned Repositories
 
+
+<a href="[https://github.com/Aissam-gif/taskfa](https://github.com/Aissam-gif/doorLock_mobileApp)">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Aissam-gif&repo=doorLock_mobileApp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+
+<a href="https://github.com/Aissam-gif/Java-Assembly-Code-Generator-from-Syntax-Tree">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Aissam-gif&repo=Java-Assembly-Code-Generator-from-Syntax-Tree&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/Aissam-gif/StoreManagement">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Aissam-gif&repo=StoreManagement&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <a href="https://github.com/Aissam-gif/taskfa">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Aissam-gif&repo=taskfa&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
